@@ -1,6 +1,7 @@
 Arquivo de teste
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mod11
 =======
 <<<<<<< HEAD
@@ -20,3 +21,6 @@ Mod15
 =======
 Mod16
 >>>>>>> 802d2e25cd627d0d3c246fda27dd3061ee982b6e
+=======
+Mod23
+>>>>>>> master
