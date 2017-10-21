@@ -1,5 +1,6 @@
 Arquivo de teste
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mod11
 =======
 <<<<<<< HEAD
@@ -16,3 +17,6 @@ Mod15
 >>>>>>> Stashed changes
 >>>>>>> iss56
 >>>>>>> master
+=======
+Mod16
+>>>>>>> 802d2e25cd627d0d3c246fda27dd3061ee982b6e
