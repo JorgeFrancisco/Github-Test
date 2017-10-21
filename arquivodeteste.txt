@@ -1,2 +1,14 @@
 Arquivo de teste
+<<<<<<< HEAD
 Mod12
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Mod14
+=======
+Mod13
+>>>>>>> Stashed changes
+=======
+Mod15
+>>>>>>> Stashed changes
+>>>>>>> iss56
