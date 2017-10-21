@@ -1,2 +1,6 @@
 Arquivo de teste
+<<<<<<< HEAD
 Mod20
+=======
+Mod19
+>>>>>>> iss54
