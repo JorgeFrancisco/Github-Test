@@ -1,6 +1,2 @@
 Arquivo de teste
-<<<<<<< HEAD
-Mod5
-=======
-Mod4
->>>>>>> hotfix
+Mod6
