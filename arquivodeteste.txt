@@ -1,2 +1,6 @@
 Arquivo de teste
+<<<<<<< HEAD
 Mod8
+=======
+Mod7
+>>>>>>> 40eba0c1098e598b061d2afcdc4a1b8cbb378efc
