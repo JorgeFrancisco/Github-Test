@@ -1,2 +1,6 @@
 Arquivo de teste
+<<<<<<< Updated upstream
 Mod14
+=======
+Mod13
+>>>>>>> Stashed changes
