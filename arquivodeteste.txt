@@ -1,2 +1,6 @@
 Arquivo de teste
+<<<<<<< HEAD
 Mod43
+=======
+Mod42
+>>>>>>> 30c75feb357a16a6256515388cf815b9481f1956
