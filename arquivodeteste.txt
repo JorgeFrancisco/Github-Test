@@ -1,6 +1,2 @@
 Arquivo de teste
-<<<<<<< HEAD
-Mod37
-=======
-Mod35
->>>>>>> iss04
+Mod38
