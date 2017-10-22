@@ -1,2 +1,30 @@
 Arquivo de teste
+<<<<<<< HEAD
 Mod24
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Mod11
+=======
+<<<<<<< HEAD
+Mod12
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Mod14
+=======
+Mod13
+>>>>>>> Stashed changes
+=======
+Mod15
+>>>>>>> Stashed changes
+>>>>>>> iss56
+>>>>>>> master
+=======
+Mod16
+>>>>>>> 802d2e25cd627d0d3c246fda27dd3061ee982b6e
+=======
+Mod23
+>>>>>>> master
+>>>>>>> iss55
